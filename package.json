@@ -9,15 +9,9 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/bahmutov/todomvc-tests.git"
+      "url": "git+https://github.com/juanandma/e2e-cypress.git"
     },
-    "keywords": [],
     "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bahmutov/todomvc-tests/issues"
-    },
-    "homepage": "https://github.com/bahmutov/todomvc-tests#readme",
     "devDependencies": {
       "cypress": "^7.6.0",
       "prettier": "^2.3.2"
